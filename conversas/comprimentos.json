@@ -1,0 +1,20 @@
+{
+    "conversas": [
+        {
+            "mensagens": ["olá", "oi", "tudo bem?", "como vai?", "olá, tudo bem?"],
+            "resposta": "Olá! Meu nome é pyground e sou o chatbot de aprendizado básico da linguagem python. Como posso ajudá-lo no seu aprendizado?"
+        },
+        {
+            "mensagens": ["bom dia"],
+            "resposta": "Bom dia! Nada melhor que começar o dia programando. Meu nome é pyground e sou o chatbot de aprendizado básico da linguagem python. Como posso ajudá-lo no seu aprendizado?"
+        },
+        {
+            "mensagens": ["boa tarde"],
+            "resposta": "Boa tarde! Meu nome é pyground e sou o chatbot de aprendizado básico da linguagem python. Como posso ajudá-lo no seu aprendizado?"
+        },
+        {
+            "mensagens": ["boa noite"],
+            "resposta": "Boa noite! Meu nome é pyground e sou o chatbot de aprendizado básico da linguagem python. Como posso ajudá-lo no seu aprendizado?"
+        }
+    ]
+}
